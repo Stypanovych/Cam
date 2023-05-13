@@ -65,6 +65,15 @@
         }
       },
       {
+        "package": "swift-clocks",
+        "repositoryURL": "https://github.com/pointfreeco/swift-clocks",
+        "state": {
+          "branch": null,
+          "revision": "f9acfa1a45f4483fe0f2c434a74e6f68f865d12d",
+          "version": "0.3.0"
+        }
+      },
+      {
         "package": "swift-collections",
         "repositoryURL": "https://github.com/apple/swift-collections",
         "state": {
@@ -78,8 +87,8 @@
         "repositoryURL": "https://github.com/pointfreeco/swift-composable-architecture",
         "state": {
           "branch": null,
-          "revision": "ba9c626ab1b2b6af8cf684eebb2ab472fa5b6753",
-          "version": "0.33.1"
+          "revision": "79307e939fd5a99304f44bae4cf42cdc430f9480",
+          "version": "0.53.0"
         }
       },
       {
@@ -89,6 +98,15 @@
           "branch": null,
           "revision": "84b30e1af72e0ffe6dfbfe39d53b8173caacf224",
           "version": "0.10.2"
+        }
+      },
+      {
+        "package": "swift-dependencies",
+        "repositoryURL": "https://github.com/pointfreeco/swift-dependencies",
+        "state": {
+          "branch": null,
+          "revision": "25c9b6789b4b7ada649a3808e6d8de1489082a33",
+          "version": "0.5.0"
         }
       },
       {
@@ -125,6 +143,15 @@
           "branch": null,
           "revision": "3907a9438f5b57d317001dc99f3f11b46882272b",
           "version": "0.10.0"
+        }
+      },
+      {
+        "package": "swiftui-navigation",
+        "repositoryURL": "https://github.com/pointfreeco/swiftui-navigation",
+        "state": {
+          "branch": null,
+          "revision": "47dd574b900ba5ba679f56ea00d4d282fc7305a6",
+          "version": "0.7.1"
         }
       },
       {

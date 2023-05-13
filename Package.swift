@@ -54,7 +54,7 @@ let package = Package(
       // Dependencies declare other packages that this package depends on.
       // .package(url: /* package url */, from: "1.0.0"),
     .package(url: "https://github.com/SnapKit/SnapKit", .exact("5.0.1")),
-    .package(url: "https://github.com/pointfreeco/swift-composable-architecture", .exact("0.33.1")),
+    .package(url: "https://github.com/pointfreeco/swift-composable-architecture", .exact("0.53.0")),
     .package(url: "https://github.com/kishikawakatsumi/KeychainAccess", .exact("4.2.2")),
     .package(url: "https://github.com/JohnSundell/Files", from: "4.0.0"),
     .package(url: "https://github.com/RevenueCat/purchases-ios", .exact("4.13.0")),

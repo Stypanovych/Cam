@@ -5,7 +5,7 @@ import Engine
 import CameraFeature
 import EditFeature
 import MainFeature
-import XCTest
+//import XCTest
 
 // scope to just State in views ...
 //struct StateEnv<State: Equatable, Env>: Equatable {
